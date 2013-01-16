@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pluggable type="plugin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schemas.habariproject.org/pluggable/0.8">
+	<name>Testrepo</name>
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
+	<author url="http://habariproject.org/">The Habari Community</author>
+	
+	<version>1.0</version>
+	<url>http://habariproject.org/</url>
+	<description><![CDATA[Thing to mess with.]]></description>
+
+	<copyright>2013</copyright>
+	<guid>a6841f88-0510-4f82-a3f7-96b4f8a23f2c</guid>
+</pluggable>
